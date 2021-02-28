@@ -1,0 +1,21 @@
+{
+    "name": "DeltaPi Code Editor",
+    "alias": "deltapi-code-editor",
+    "version": 3.1,
+    "minAppVersion": "4.12",
+    "appScript": true,
+	"dependencies": [
+        "css/style.css",
+		"static/depends.js"
+    ],
+	"components": [
+		{
+            "_group":"HTML",
+            "path":"\/custom-html",
+            "_isSecondary": true
+        }
+    ],
+	"coreScript" : false,
+	"description":"Edit any block you like. <a href='http://www.patrickdegand.net'>Learn more...</a>",
+	"logo":"deltapi.svg"
+}
