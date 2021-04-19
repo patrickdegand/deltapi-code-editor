@@ -1,5 +1,5 @@
 {
-    "name": "DeltaPi Code Editor",
+    "name": "DeltaPi Code Editor 3.1",
     "alias": "deltapi-code-editor",
     "version": 3.1,
     "minAppVersion": "4.12",
@@ -16,6 +16,6 @@
         }
     ],
 	"coreScript" : false,
-	"description":"Edit any block you like. <a href='http://www.patrickdegand.net'>Learn more...</a>",
+	"description":"v3.1 - Edit any block you like. <a href='https://patrickdegand.github.io/deltapi/'>Learn more...</a>",
 	"logo":"deltapi.svg"
 }
